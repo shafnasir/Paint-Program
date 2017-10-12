@@ -1,0 +1,92 @@
+# Fill in, commit and push each day.
+# Group Member: Krish Prabhakar
+Nov 2, 2016
+	Yesterday :
+	Today     : Assignment was uploaded to the server. Began looking for group members.
+	Obstacles :
+	
+Nov 3, 2016
+	Yesterday : Assignment was uploaded to the server. Began looking for group members.
+	Today     : Contacted and got in touch with group members. Joined the group on the website.
+	Obstacles :
+
+Nov 4, 2016
+	Yesterday : Contacted and got in touch with group members. Joined the group on the website.
+	Today     : Read up on the assignment and figured out what was wanted from Arnold.
+	Obstacles :
+
+Nov 5, 2016
+	Yesterday : Read up on the assignment and figured out what was wanted from Arnold.
+	Today     : Met up with group and assigned the userstories to each group member.
+	Obstacles : How to distribute work evenly and defining the roles of each group member.
+
+Nov 6, 2016
+	Yesterday : Met up with group and assigned the userstories to each group member.
+	Today     : Worked on the userstories 3 and 4. Talked with group through skype messages and discussed our individual progress in the userstories. 
+	Obstacles : Figuring out how to create rectangles easily for userstory 3.
+
+Nov 7, 2016
+	Yesterday : Worked on userstories 3 and 4
+	Today     : Completed userstories 3 and 4
+	Obstacles : figuring out the rectangles and how to easily create the framing for them
+	
+Nov 8, 2016
+	Yesterday : completed userstories 3 and 4
+	Today     : took day off
+	Obstacles :
+	
+Nov 9, 2016
+	Yesterday : relaxed
+
+	Today     :
+		Collaborated with everyone tied up loose ends in code and finished project
+	Obstacles :
+Nov 10, 2016
+	Yesterday : 
+		Submitted part 1
+	Today     : 
+		Took the day off
+	Obstacles :
+	
+Nov 11, 2016
+	Yesterday : 
+		took the day off
+	Today     : 
+		took the day off
+	Obstacles :
+	
+Nov 12, 2016
+	Yesterday : 
+		took the day off
+	Today     : 
+		Worked with the group on understanding the bugs needed to be fixed for the assignment.e
+				
+	Obstacles : 
+	Understanding the design patterns and how they will fit into our code
+	
+Nov 13, 2016
+	Yesterday :
+		 Discussed with group members
+	Today     : 
+		Talked with team on new ideas to implement
+	Obstacles :
+	
+Nov 14, 2016
+	Yesterday : 
+		Brain stormed ideas
+	Today     : 
+		Chose the bugs to complete by Wednesday, which were 2.3,2.5,2.6
+	Obstacles : 
+	 
+	
+Nov 15, 2016
+	Yesterday :
+		Selected and researched UserStories. 
+	Today     :
+		Finished fixing bus 2.5,2.6. Still working with Alfred on bug 2.4, so I have the code for 2.3
+	Obstacles :	
+		
+Nov 16, 2016
+	Yesterday : Collaborated on many different bugs
+	Today     : Finished 2.3 and pushed branches for all the finished code after consulting with group
+	Obstacles : Working out 2.4 to get 2.3 running right

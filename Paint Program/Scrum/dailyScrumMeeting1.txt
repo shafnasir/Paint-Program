@@ -1,0 +1,91 @@
+# Fill in, commit and push each day.
+# Group Member: Member 1: Shaf Nasir
+Nov 2, 2016
+	Yesterday :
+	Today     : Assigned Assignment 2 Part 1, Picked group members
+	Obstacles :
+	
+Nov 3, 2016
+	Yesterday : 
+	Today     : Got in touch with group members
+	Obstacles :
+
+Nov 4, 2016
+	Yesterday : Got in touch with group members
+	Today     : Created and joined group
+	Obstacles :
+
+Nov 5, 2016
+	Yesterday : Created and joined group
+	Today     : Had first scrum meeting, discussed which member will do which user story/bug
+				Filled out sprintBacklog. Decided I will be doing User Story 7 and, Bug 1 and 2
+	Obstacles : How to spread work load between members
+
+Nov 6, 2016
+	Yesterday : Had first scrum meeting
+	Today     : Completed Bug 2. Started research on how to do UserStory 7 and Bug 1. 
+				Learned stroke method which changes thickness for UserStory 7. Also 
+				started to understand how to add icons to each button for Bug 1. Talked 
+				with group members to see how everyone is progressing
+	Obstacles : Had to look up how to change thickness. Also had to learn about Button Groups for Bug 2
+	
+Nov 7, 2016
+	Yesterday : Completed Bug 2. 
+	Today     : Completed Bug 1. Started UserStory 7 and tried to figure out how to change the thickness
+				after the thickness button is clicked. Decided I will use either a JTextfield to input the 
+				thickness or a drop down menu. Discussed with group members on how we are progressing
+	Obstacles : tried to figure out how to change the thickness
+	
+Nov 8, 2016
+	Yesterday : Completed Bug1. Started UserStory 7
+	Today     : Discussed which design patters we will use for Bug 3 and 4. Started working on Bug 3
+				and decided we will use the strategy design pattern for choosing which mode we want.
+	Obstacles : looking through design patterns and seeing what would work best
+	
+Nov 9, 2016
+	Yesterday : Started Bug 3. Discussed with group members
+	Today     : Finished what we could for part one. Everything was kind of functioning.
+				Submitted what we had done.
+	Obstacles : Started design patterns too late
+	
+Nov 10, 2016
+	Yesterday : Submitted part 1
+	Today     : Day off
+	Obstacles :
+	
+Nov 11, 2016
+	Yesterday : Day off
+	Today     : Day off
+	Obstacles :
+	
+Nov 12, 2016
+	Yesterday : Day off
+	Today     : Started discussing with group members for the second sprint. Which member will do what.
+				
+	Obstacles :
+	
+Nov 13, 2016
+	Yesterday : Discussed with group members
+	Today     : Cleaned up code and brain stormed ideas to add into our program. Tested features 
+				to see if there are any bugs.
+	Obstacles :
+	
+Nov 14, 2016
+	Yesterday : Cleaned up code and brain stormed ideas
+	Today     : Added in icon for fill and made exit button from the drop down menu functional.
+				Decided I will be doing the keyboard shortcuts for undo, redo, etc.
+	Obstacles : Researching how to detect keyboard presses
+	
+Nov 15, 2016
+	Yesterday : Added little features 
+	Today     : Added in undo, redo and exit keyboard shortcuts. Will do copy, paste and cut when 
+				they are completed. Decided I will do a new Bug to separate thickness from 
+				the shapeChooserPanel.
+	Obstacles :	Researching how to detect keyboard presses
+
+Nov 16, 2016
+	Yesterday : Added in undo, redo and exit keyboard shortcuts
+	Today     : Finished Bug2.7 which was to separate the thickness panel from the shapeChooserPanel.
+				Merged everything into the master branch and finished up with group members and submitted part 2.
+	Obstacles : Had problems with DIRTY_WORKTREE when merging.
+	

@@ -1,0 +1,109 @@
+# Fill in, commit and push each day.
+# Group Member: Zuhaib Khan
+Nov 2, 2016
+	Yesterday :
+	Today     :
+		Got assignment 2 assigned and picked group members.
+	Obstacles :
+	
+Nov 3, 2016
+	Yesterday :
+		Assignment assigned and looked for members.
+	Today     :
+		Got in touch with other group members.
+	Obstacles :
+
+Nov 4, 2016
+	Yesterday :
+		Got in touch with group members. 
+	Today     :
+		Officially created and joined group for assignment.
+	Obstacles :
+
+Nov 5, 2016
+	Yesterday :
+		Officially created and joined group. 
+	Today     :
+		Each member was assigned user stories, and we set a estimated completion date for sprint 1.
+	Obstacles :
+		How to evenly distribute workload.
+
+Nov 6, 2016
+	Yesterday :
+	Today     :
+		Day off
+	Obstacles :
+	
+Nov 7, 2016
+	Yesterday :
+	Today     :
+		Created basic GUI component for colours.
+	Obstacles :
+		Was unable to make it operational, was finding it difficult to change the paint colours without errors.
+
+Nov 8, 2016
+	Yesterday :
+		made simple GUI component for colours.
+	Today     :
+		read tutorials on JColorChooser, however did not implement anything into code. Just brainstormed ideas.
+	Obstacles :
+		Dont know how to implement ideas into the code. 
+
+Nov 9, 2016
+	Yesterday :
+		Brainstormed ideas, specifically using JColorChooser.
+	Today     :
+		Almost finished UserStory 5.
+	Obstacles :
+Nov 10, 2016
+	Yesterday : 
+		Submitted part 1
+	Today     : 
+		Day off
+	Obstacles :
+	
+Nov 11, 2016
+	Yesterday : 
+		Day off
+	Today     : 
+		Day off
+	Obstacles :
+	
+Nov 12, 2016
+	Yesterday : 
+		Day off
+	Today     : 
+		Started discussing with group members for the second sprint. Which member will do what.
+				
+	Obstacles :
+	
+Nov 13, 2016
+	Yesterday :
+		 Discussed with group members
+	Today     : 
+		Brain stormed ideas to add into our program. Tested features to see if there are any bugs.
+	Obstacles :
+	
+Nov 14, 2016
+	Yesterday : 
+		Brain stormed ideas
+	Today     : 
+		Selected UserStories to complete by Wednesday. (Copy, Paste, Cut, Clear all) 
+	Obstacles : 
+		Researching how to approach these tools. 
+	
+Nov 15, 2016
+	Yesterday :
+		Selected and researched UserStories. 
+	Today     :
+		Partially finished User story 14 (clear all). And thought up ideas for User story 15
+	Obstacles :	
+		Difficulty implementing undo and redo into clear all. Need to find solution to this issue. 
+Nov 16, 2016
+	Yesterday :
+		Partially finished User story 14, and thought up ideas for user story 15.
+	Today     :
+		Completed working versions of User story 14, User story 15, and thought up ideas for User story 16. 
+		Aswell as ideas on how to save and load.
+	Obstacles :
+		Glitches with user story 14 and 15 that need to be solved.

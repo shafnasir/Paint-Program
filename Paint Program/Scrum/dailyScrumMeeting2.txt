@@ -1,0 +1,41 @@
+# Fill in, commit and push each day.
+# Group Member: Member 2: Alfred Kryzian Lemon
+Nov 2, 2016
+	Yesterday :
+	Today     : Assigned Assignment 2 part 1. Began organizing group members.
+	Obstacles :
+	
+Nov 3, 2016
+	Yesterday : Assigned Assignment 2 part 1. Began organizing group members.
+	Today     : Got in touch with group members
+	Obstacles :
+
+Nov 4, 2016
+	Yesterday : Got in touch with group members 
+	Today     : Created and joined group UniPlz
+	Obstacles :
+
+Nov 5, 2016
+	Yesterday : Created group UniPlz
+	Today     : First scrum meeting, assigned most of the sprints to each member
+	Obstacles : Distribute near-equal workload to each member
+
+Nov 6, 2016
+	Yesterday : Assigned sprints to group members
+	Today     : Worked and finished User story 1 and 2, and bug 6 (may need changes in the future to fit future design)
+	Obstacles : How to resize circle in a way that it has a transition.
+	
+Nov 7, 2016
+	Yesterday : Worked and finished User story 1 and 2, and bug 6 (may need changes in the future to fit future design)
+	Today     : Optimized circle drawing and dragging
+	Obstacles : figure out how to not include dragged circle in list of shapes
+	
+Nov 8, 2016
+	Yesterday : Optimized circle drawing and dragging
+	Today     : Helped fix rectangle
+	Obstacles : 
+	
+Nov 9, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
